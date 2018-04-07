@@ -1,0 +1,46 @@
+---
+Box Gold Mine
+---
+https://learn.adafruit.com/force-sensitive-resistor-fsr
+https://pressureprofile.com/heat-press
+
+https://www.kulite.com/assets/media/2017/05/Piezoresistive_vs_Piezoelectric.pdf [important]
+https://www.tekscan.com/products-solutions/systems/f-scan-system?tab=description
+http://ojs.library.okstate.edu/osu/index.php/OAHPERD/article/view/6296/5792
+http://boxingscience.co.uk/science-behind-punch/
+https://ac.els-cdn.com/S1877705811010265/1-s2.0-S1877705811010265-main.pdf?_tid=cedcbe7a-c571-11e7-be9c-00000aacb35e&acdnat=1510248005_839a7842bb4332d170cc58c3b1c1e060
+https://ac.els-cdn.com/S187770581400589X/1-s2.0-S187770581400589X-main.pdf?_tid=fa73f156-c572-11e7-87b9-00000aacb362&acdnat=1510248507_81df132e09efdf2f7c112609aaf9f2aa
+https://ac.els-cdn.com/S1877705811010320/1-s2.0-S1877705811010320-main.pdf?_tid=12bace94-c571-11e7-ab1a-00000aab0f6b&acdnat=1510247689_6e192f9cb23b05bb25d9c98d00c68152
+https://ac.els-cdn.com/S1877705810003711/1-s2.0-S1877705810003711-main.pdf?_tid=1d17f43e-c571-11e7-a7dd-00000aacb361&acdnat=1510247706_a2248bba15f35b0cf8058054082b1187
+http://www.actabio.pwr.wroc.pl/Vol18No1/7.pdf
+
+---
+Diverse
+---
+
+https://www.robofun.ro/forum/viewtopic.php?f=16&t=158
+http://www.analog.com/en/products/sensors/accelerometers.html
+http://www.analog.com/en/products/sensors/accelerometers-special-purpose.html [ THIS? ]
+
+http://www.st.com/content/ccc/resource/technical/document/datasheet/58/d2/32/92/1c/e3/43/fd/CD00250937.pdf/files/CD00250937.pdf/jcr:content/translations/en.CD00250937.pdf
+
+http://www.autex.spb.su/ad/ADIS16204.pdf [ see below ]
+http://www.analog.com/media/en/PCN/ADI_PDN_12_0155_Rev_-_Form.pdf
+
+https://espace.curtin.edu.au/bitstream/handle/20.500.11937/17688/154191_154191.pdf?sequence=2
+
+http://www.datasheet.ro/ADIS16240-datasheet.shtml [aproape...?!]
+https://www.robofun.ro/docs/fsrguide.pdf [ useless pt aplicatia curenta ]
+https://www.eurodidactica.ro/materiale-didactice-nivel-gimnazial-lice/fizica/senzori-si-produse-pasco/senzori-pasco-nivel-gimnazial-si-liceal/senzori-de-forta
+^ [ scump, scala ridicol de mica... ce bullshit ]
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1896070/ [ DROP impact again... BUT one of the most relevant reads found on the topic ]
+http://www.gcdataconcepts.com/arrow.html [ strap sensor to arrow? that won't do... ]
+http://www.pcb.com/Products.aspx?m=200B05
+https://www.connectsavannah.com/savannah/the-true-force-of-a-boxers-punch/Content?oid=2133328
+http://www.pcb.com/Resources/Technical-Information/Tech_Force
+https://en.wikipedia.org/wiki/Piezoelectric_sensor [ see Sensor Design ]
+https://en.wikipedia.org/wiki/Load_cell
+
+https://blog.mide.com/accelerometer-selection
+http://www.loadstarsensors.com/impact-force-measurement.html?view=default
+http://www.globalspec.com/learnmore/sensors_transducers_detectors/acceleration_vibration_sensing/vibration_sensors
