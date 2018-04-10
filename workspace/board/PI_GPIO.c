@@ -1,3 +1,20 @@
+/*
+ PI_GPIO.c  (c) Yann Guidon 20130204
+ GPIO access for the Raspberry Pi
+ Derived from code by Dom & Gert
+  @ http://elinux.org/RPi_Low-level_peripherals version 20130101
+
+  20130507 : mmap : corrected return value (MAP_FAILED)
+  20130508 : adapted for use with SPI
+  20130513
+  20130527 stupid mask bug found ! avoid previous versions !!!
+  20130611 added input macro
+  20140726 "parachute" function
+  20140904 err()
+  20140907 : everything goes to stderr
+  20161101 : #ifndef GPIO_BASE, english
+*/
+
 #ifndef PI_GPIO
 #define PI_GPIO
 
@@ -9,7 +26,9 @@
 int mmap_fd=0;
 
 #ifndef GPIO_BASE
-#define GPIO_BASE  (0x20200000) // For RPi2, declare under bash GPIO_BASE="-DGPIO_BASE=(0x3F200000)"
+#define GPIO_BASE  (0x20200000)
+// For RPi2, declare under bash GPIO_BASE="-DGPIO_BASE=(0x3F200000)"
+// (or whatever the platform-of-the-day requires)
 #endif
 #define BLOCK_SIZE (4096) /* size of one MMU page */
 
